@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*.egg-info
+*.pytest_cache
+pyling.logs
+*__pycache__*
